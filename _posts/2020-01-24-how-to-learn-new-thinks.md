@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "새로운 것을 배우려면?"
+title:  "새로운 것을 배우려면?(IT에 몸담은 이들을 위한 지적생산 기술-1)"
 date:   2020-01-24
 desc: "IT에 몸담은 이들을 위한 지적생산 기술_1"
 keywords: "Jekyll,gh-pages,website,blog,learning"
@@ -9,6 +9,7 @@ tags: [Jekyll]
 icon: icon-html
 ---
 # 새로운 것을 배우려면?
+### IT에 몸담은 이들을 위한 지적생산기술-1
 ---
 
 새로운 것을 배우려면 어떻게 해야 될까? 저자는 학습 사이클을 3단계로 구분하고 있다.
