@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "node js?" 
-date:   2020-02-17
-esc: "Quick test on writing code snippets in a blog post"
+title: "node js?" 
+date: 2020-02-17
+desc: "What is node js?"
 keywords: "Jalpc,Jekyll,gh-pages,website,blog,javascript"
 categories: [HTML,javascript]
 tags: [Jalpc,Jekyll]
